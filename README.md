@@ -6,10 +6,10 @@ Fiz esse aplicativo intencionalmente com poucas bibliotecas por isso tive pouca 
 
 <p>
   
-  <img src="https://github.com/Lars15z/Youtube_Clone/assets/83445945/08c07fbd-aa60-4ad9-a8b8-a6b432149db1" width="300" height="690">
-  <img src="https://github.com/Lars15z/Youtube_Clone/assets/83445945/0754bc5d-b9c0-4ced-b108-3d40960df3b8" width="300" height="690">
-  <img src="https://github.com/Lars15z/Youtube_Clone/assets/83445945/65ce2d3b-88e5-4b13-9f0b-81d3c7150cdc" width="300" height="690">
-  <img src="https://github.com/Lars15z/Youtube_Clone/assets/83445945/5f2628fd-2fb0-4901-b1bb-91a93db4f423" width="300" height="690">
+  <img src="https://github.com/Lars15z/Youtube_Clone/assets/83445945/08c07fbd-aa60-4ad9-a8b8-a6b432149db1" width="230" height="620">
+  <img src="https://github.com/Lars15z/Youtube_Clone/assets/83445945/0754bc5d-b9c0-4ced-b108-3d40960df3b8" width="230" height="620">
+  <img src="https://github.com/Lars15z/Youtube_Clone/assets/83445945/65ce2d3b-88e5-4b13-9f0b-81d3c7150cdc" width="230" height="620">
+  <img src="https://github.com/Lars15z/Youtube_Clone/assets/83445945/5f2628fd-2fb0-4901-b1bb-91a93db4f423" width="230" height="620">
 
 </p>
 
